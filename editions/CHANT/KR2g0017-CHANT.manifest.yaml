@@ -1,0 +1,170 @@
+canonical_identifier: bkk:krp/KR2g0017/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR2g0017/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 古列女傳
+  identifiers:
+    krp: KR2g0017
+  tags:
+    kr-categories: KR2g
+    tls-internal:
+    - core
+    - swl
+    - tr-en
+    tls-dates: dat06210
+  source:
+    repository: tls-texts
+    path: data/tls/KR2g0017.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR2g0017_001-CHANT.yaml, hash: 'sha256:638c7919a2b97517aae6af9c48bce6a355ad3f10c90194701dffdc0afe825329'}
+  - {seq: 2, filename: KR2g0017_002-CHANT.yaml, hash: 'sha256:55e4e05b976e03d1b1995bd69df7753d8be960ddae1796bc7814281058ae044b'}
+  - {seq: 3, filename: KR2g0017_003-CHANT.yaml, hash: 'sha256:314e5b2bba0915eed03e7e5f711ab7c198667042260fcc7faa7400750b6f5c29'}
+  - {seq: 4, filename: KR2g0017_004-CHANT.yaml, hash: 'sha256:4014adf492864b023da20e40f93afeddf382d1c9db0feb111c0a88c6465b6bb5'}
+  - {seq: 5, filename: KR2g0017_005-CHANT.yaml, hash: 'sha256:7424cd8b6bf207ce6d134bdd8fa23fb1290faeb9068bf9ff3179aa33cea0d388'}
+  - {seq: 6, filename: KR2g0017_006-CHANT.yaml, hash: 'sha256:0776fccb94c7181f81ec598d9b67560a80622dec086a3cddb4655ddb65a0063a'}
+  - {seq: 7, filename: KR2g0017_007-CHANT.yaml, hash: 'sha256:3779a9506cddd043256e8aebbad574ca6418488a06584a6cae635a1e8e323433'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2g0017_001-CHANT.markers.yaml, hash: 'sha256:0c6cdb6408a6c1b8d646b0e0833e069af4d416159863e1fb92cc7ece635d5171'}
+  - {seq: 2, role: markers, filename: assets/KR2g0017_002-CHANT.markers.yaml, hash: 'sha256:36f013b4a83a498f6a8f6970620b5e7a0855ba6aab4d804494f187b8421fd6e3'}
+  - {seq: 3, role: markers, filename: assets/KR2g0017_003-CHANT.markers.yaml, hash: 'sha256:7cb300b5859f90eed3233ba42ba92c473fa4095d2011289d0acd9f1dcf0b772e'}
+  - {seq: 4, role: markers, filename: assets/KR2g0017_004-CHANT.markers.yaml, hash: 'sha256:8584244b34e83f5abdde286f66e5d00ab4ac29fa6a87ed07ba5c648a039f764f'}
+  - {seq: 5, role: markers, filename: assets/KR2g0017_005-CHANT.markers.yaml, hash: 'sha256:20f168fe8a72d3bd3b35d7449e3418ddb232b075c5e9cd4c9ae2b24171a2e7e1'}
+  - {seq: 6, role: markers, filename: assets/KR2g0017_006-CHANT.markers.yaml, hash: 'sha256:04ac98fe4f01ac6afef53081b6aa438832d2095bf102dbb3d57bbb1eba2e92d0'}
+  - {seq: 7, role: markers, filename: assets/KR2g0017_007-CHANT.markers.yaml, hash: 'sha256:5d6c3aa92373ab55ab3b0fd4031f304d61bbbb561372a925c59ce9ea93f70f40'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 7278
+  label: 母儀傳第一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 0
+  label: 母儀傳第一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 4904
+  label: 賢明傳
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 0
+  label: 賢明傳
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 5205
+  label: 仁智傳
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 0
+  label: 仁智傳
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 4474
+  label: 貞順傳第四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 0
+  label: 貞順傳第四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 5738
+  label: 節義傳第五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 0
+  label: 節義傳第五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 7202
+  label: 辯通傳第六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 0
+  label: 辯通傳第六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 5878
+  label: 孽嬖傳第七
+  type: section
+  level: 1
+hash: sha256:6af1cd4d73d9090ceae7ff671397eb5f5b5574d32ae27b5bd1e2f7fd0fc24f3d
