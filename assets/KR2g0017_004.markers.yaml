@@ -2147,6 +2147,7 @@ markers:
   - {type: variant, offset: 2767, length: 1, content: 反, SBCK: ''}
   - {type: variant, offset: 2767, length: 1, content: 反, WYG: ''}
   - {type: variant, offset: 2767, length: 1, content: 反, krp: ''}
+  - {type: voice, offset: 2767, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 2768, content: ), id: KR2g0017_CHANT_004-bkkpn714}
   - {type: punctuation, offset: 2770, content: ，, id: KR2g0017_CHANT_004-bkkpn715}
   - {type: 'tls:seg', offset: 2770, content: '', id: KR2g0017_CHANT_004-39a.37}
@@ -2525,6 +2526,7 @@ markers:
   - {type: punctuation, offset: 3241, content: (, id: KR2g0017_CHANT_004-bkkpn833}
   - {type: variant, offset: 3241, length: 1, content: 祭, WYG: ''}
   - {type: variant, offset: 3241, length: 1, content: 祭, krp: ''}
+  - {type: voice, offset: 3241, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 3242, content: ), id: KR2g0017_CHANT_004-bkkpn834}
   - {type: punctuation, offset: 3247, content: ，, id: KR2g0017_CHANT_004-bkkpn835}
   - {type: 'tls:seg', offset: 3247, content: '', id: KR2g0017_CHANT_004-47a.18}
@@ -3506,4 +3508,4 @@ markers:
   - {type: variant, offset: 4474, length: 0, content: '', WYG: 古列女傳巻四}
   - {type: variant, offset: 4474, length: 0, content: '', krp: 劉向古列女傳卷之四終}
   back: []
-hash: sha256:8de813b705edc80ac0a638facad1b1de4fff9b0bd876f487ab51a982ef4ab080
+hash: sha256:c6f13a69567d44d5645cf1278f33428204792c2563bbcde55c8b1eec23abeb41

@@ -30,11 +30,11 @@ assets:
   - {seq: 7, filename: KR2g0017_007-CHANT.yaml, hash: 'sha256:3779a9506cddd043256e8aebbad574ca6418488a06584a6cae635a1e8e323433'}
   markers:
   - {seq: 1, role: markers, filename: assets/KR2g0017_001-CHANT.markers.yaml, hash: 'sha256:0c6cdb6408a6c1b8d646b0e0833e069af4d416159863e1fb92cc7ece635d5171'}
-  - {seq: 2, role: markers, filename: assets/KR2g0017_002-CHANT.markers.yaml, hash: 'sha256:36f013b4a83a498f6a8f6970620b5e7a0855ba6aab4d804494f187b8421fd6e3'}
+  - {seq: 2, role: markers, filename: assets/KR2g0017_002-CHANT.markers.yaml, hash: 'sha256:81b800e6dbb3a24f956e7f03fcf326b1ce5876a66150fa46e38dcb1c5386663f'}
   - {seq: 3, role: markers, filename: assets/KR2g0017_003-CHANT.markers.yaml, hash: 'sha256:7cb300b5859f90eed3233ba42ba92c473fa4095d2011289d0acd9f1dcf0b772e'}
-  - {seq: 4, role: markers, filename: assets/KR2g0017_004-CHANT.markers.yaml, hash: 'sha256:8584244b34e83f5abdde286f66e5d00ab4ac29fa6a87ed07ba5c648a039f764f'}
-  - {seq: 5, role: markers, filename: assets/KR2g0017_005-CHANT.markers.yaml, hash: 'sha256:20f168fe8a72d3bd3b35d7449e3418ddb232b075c5e9cd4c9ae2b24171a2e7e1'}
-  - {seq: 6, role: markers, filename: assets/KR2g0017_006-CHANT.markers.yaml, hash: 'sha256:04ac98fe4f01ac6afef53081b6aa438832d2095bf102dbb3d57bbb1eba2e92d0'}
+  - {seq: 4, role: markers, filename: assets/KR2g0017_004-CHANT.markers.yaml, hash: 'sha256:f9d0b85adf3902c451bab83246dc78d8f65c296644d685910fe3d832f21c56e9'}
+  - {seq: 5, role: markers, filename: assets/KR2g0017_005-CHANT.markers.yaml, hash: 'sha256:288f1a867f53b14903021dc6561f24db15dd533aa5ef1377f785c6b5481fa17d'}
+  - {seq: 6, role: markers, filename: assets/KR2g0017_006-CHANT.markers.yaml, hash: 'sha256:4ba9f1688e992470137c6811ea51afc02b996b704c05a6a56e853349262a4e0c'}
   - {seq: 7, role: markers, filename: assets/KR2g0017_007-CHANT.markers.yaml, hash: 'sha256:5d6c3aa92373ab55ab3b0fd4031f304d61bbbb561372a925c59ce9ea93f70f40'}
 table_of_contents:
 - ref:
@@ -167,4 +167,4 @@ table_of_contents:
   label: 孽嬖傳第七
   type: section
   level: 1
-hash: sha256:6af1cd4d73d9090ceae7ff671397eb5f5b5574d32ae27b5bd1e2f7fd0fc24f3d
+hash: sha256:21581747f015d73a75ff6100678cf758a23069fa0496658a068d628c8c698807

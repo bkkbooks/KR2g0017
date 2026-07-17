@@ -1794,6 +1794,7 @@ markers:
   - {type: variant, offset: 2142, length: 8, content: 貞順婦人之至行也, SBCK: ''}
   - {type: variant, offset: 2142, length: 8, content: 貞順婦人之至行也, WYG: ''}
   - {type: variant, offset: 2142, length: 8, content: 貞順婦人之至行也, krp: ''}
+  - {type: voice, offset: 2142, length: 8, name: note, id: n1}
   - {type: punctuation, offset: 2144, content: ，, id: KR2g0017_CHANT_002-bkkpn588}
   - {type: 'tls:seg', offset: 2144, content: '', id: KR2g0017_CHANT_002-27a.32}
   - {type: punctuation, offset: 2150, content: 。, id: KR2g0017_CHANT_002-bkkpn589}
@@ -4067,4 +4068,4 @@ markers:
   - {type: page-break, offset: 4904, content: '', id: KR2g0017_WYG_002-17b, image: WYG0448/WYG0448-0026d.png}
   - {type: variant, offset: 4904, length: 0, content: '', krp: 劉向古列女傳卷之二終}
   back: []
-hash: sha256:5c5197b00768afff7de4e59670fe5142562b64bf29e535b98d10ccea64a76d8b
+hash: sha256:dae49000b9b38979a1b846083af42dc3cff6bb9b798db138da3fc60b67aeeb39

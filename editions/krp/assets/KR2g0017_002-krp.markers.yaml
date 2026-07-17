@@ -525,6 +525,7 @@ markers:
   - {type: variant, offset: 1224, length: 1, content: 姫, WYG: 姬}
   - {type: variant, offset: 1227, length: 1, content: 姬, SBCK: 􅁎}
   - {type: punctuation, offset: 1234, content: (, id: KR2g0017_krp_002-bkkpn1}
+  - {type: voice, offset: 1234, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 1235, content: ), id: KR2g0017_krp_002-bkkpn2}
   - {type: 'kr:newline', offset: 1242, content: '
 
@@ -2064,4 +2065,4 @@ markers:
 
       ', id: KR2g0017_krp_002-bkkkrnewl330}
   back: []
-hash: sha256:4c5b096d746eea8e1f0cd18b8f7fd413b3c4c33f0e9db261b3fd8dc565cc1d45
+hash: sha256:4f0fd4d9a5a71a02b6d4cda6696198420ee9d895ba339dccf93267827678c7ce

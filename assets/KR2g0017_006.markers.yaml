@@ -922,6 +922,7 @@ markers:
   - {type: variant, offset: 1199, length: 2, content: 為儀, SBCK: ''}
   - {type: variant, offset: 1199, length: 2, content: 為儀, WYG: ''}
   - {type: variant, offset: 1199, length: 2, content: 為儀, krp: ''}
+  - {type: voice, offset: 1199, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 1201, content: ), id: KR2g0017_CHANT_006-bkkpn310}
   - {type: punctuation, offset: 1203, content: ，, id: KR2g0017_CHANT_006-bkkpn311}
   - {type: 'tls:seg', offset: 1203, content: '', id: KR2g0017_CHANT_006-11a.60}
@@ -1067,6 +1068,7 @@ markers:
   - {type: punctuation, offset: 1375, content: (, id: KR2g0017_CHANT_006-bkkpn365}
   - {type: variant, offset: 1375, length: 1, content: 其, SBCK: ''}
   - {type: variant, offset: 1375, length: 1, content: 其, krp: ''}
+  - {type: voice, offset: 1375, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 1376, content: ), id: KR2g0017_CHANT_006-bkkpn366}
   - {type: variant, offset: 1377, length: 1, content: 淫, WYG: 滛}
   - {type: punctuation, offset: 1380, content: ？, id: KR2g0017_CHANT_006-bkkpn367}
@@ -1464,6 +1466,7 @@ markers:
   - {type: variant, offset: 1893, length: 2, content: 妾聞, SBCK: ''}
   - {type: variant, offset: 1893, length: 2, content: 妾聞, WYG: ''}
   - {type: variant, offset: 1893, length: 2, content: 妾聞, krp: ''}
+  - {type: voice, offset: 1893, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 1895, content: ), id: KR2g0017_CHANT_006-bkkpn498}
   - {type: punctuation, offset: 1900, content: ，, id: KR2g0017_CHANT_006-bkkpn499}
   - {type: 'tls:seg', offset: 1900, content: '', id: KR2g0017_CHANT_006-19a.15}
@@ -2522,6 +2525,7 @@ markers:
   - {type: punctuation, offset: 3125, content: (, id: KR2g0017_CHANT_006-bkkpn850}
   - {type: variant, offset: 3125, length: 1, content: 出, SBCK: ''}
   - {type: variant, offset: 3125, length: 1, content: 出, krp: ''}
+  - {type: voice, offset: 3125, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 3126, content: ), id: KR2g0017_CHANT_006-bkkpn851}
   - {type: punctuation, offset: 3129, content: ，, id: KR2g0017_CHANT_006-bkkpn852}
   - {type: 'tls:seg', offset: 3129, content: '', id: KR2g0017_CHANT_006-31a.25}
@@ -4697,6 +4701,7 @@ markers:
   - {type: variant, offset: 5794, length: 2, content: 逐孤, SBCK: 􅀌}
   - {type: variant, offset: 5794, length: 1, content: 逐, WYG: ''}
   - {type: variant, offset: 5794, length: 1, content: 逐, krp: ''}
+  - {type: voice, offset: 5794, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 5795, content: ), id: KR2g0017_CHANT_006-bkkpn1592}
   - {type: punctuation, offset: 5798, content: ，, id: KR2g0017_CHANT_006-bkkpn1593}
   - {type: 'tls:seg', offset: 5798, content: '', id: KR2g0017_CHANT_006-49a.5}
@@ -5812,4 +5817,4 @@ markers:
   - {type: page-break, offset: 7202, content: '', id: KR2g0017_WYG_006-23b, image: WYG0448/WYG0448-0064b.png}
   - {type: variant, offset: 7202, length: 0, content: '', krp: 劉向古列女傳卷之六終}
   back: []
-hash: sha256:abb416811db67f2010e4a13cf91450b579f471ba00d0a84e2fe431de87a31823
+hash: sha256:b58cfb22585d14cc73fe1743e4896ed307897e4030b36b2ddb6b85d03c4ce93b
